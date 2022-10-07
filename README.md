@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ingmar, Nanotech Engineer & Data Analyst from México
+  Hi, I'm Ingmar, Nanotech Engineer & Data Scientist from México
   <br>
   <br>
   🎓 I graduated from San Luis Potosí University Science Department
