@@ -8,19 +8,18 @@
 
 <h3 align="center">Hello there, I'm Ingmar 👋</h3>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
  
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> 
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ingmar, Nanotech Engineer & Data Scientist from México
+  Hi, I'm Ingmar, Nanotech Engineer & Data Scientist/Analyst from México
   <br>
   <br>
-  🎓 I graduated from San Luis Potosí University Science Department
+  🎓 I'm graduated from San Luis Potosí University Science Department
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anything about it
   <br>
   🔬 I’m currently working on Machine Learning
   <br>
