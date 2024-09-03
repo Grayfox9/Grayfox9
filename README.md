@@ -1,4 +1,8 @@
+## About me 👩‍💻
 
+Apasionado de las tecnologías emergentes de programación espcializado en Python con experiencia en Data Science y Data Engineering. Mi enfoque incluye metodologías ágiles, flujos de trabajo eficientes, y una sólida base en estructuras de datos, visualizaciones y evaluación de modelos de machine learning. Super fan por la resolución de problemas, el aprendizaje ágil y el trabajo en equipo.
+
+## Knowledge 📚
 - Ingeniería de datos	- Ingeniería de datos
 - Dashboard generation with Python, SQL, Spark	- Generación de reportes con Python, SQL, Spark
 - ETL (Extract, Transform, Load)	- ETL (Extract, Transform, Load)
@@ -8,15 +12,16 @@
 - Control de versiones: Git	- Control de versiones: Git
 
 
-## Tecnologías 🧰	## Tecnologías 🧰
-- Lenguajes: Python	- Lenguajes: Python
-- Bibliotecas: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn	- Bibliotecas: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- Plataformas: Google Colab, Render	- Plataformas: Google Cloud Platform, Google Colab, Render
-- Frameworks: Django	- Frameworks: Django
-- Contenedores: Docker	- Contenedores: Docker
-- Bases de datos: MySQL, PostgreSQL, MongoDB	- Bases de datos: MySQL, PostgreSQL, MongoDB
-- Otras: Hadoop, Spark	- Otras: Hadoop, Spark
-- ## Proyectos Destacados en GitHub 🌟	- ## Proyectos Destacados en GitHub 🌟
+## Tecnologías 🧰	
+- Lenguajes: Python
+- Bibliotecas: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn	
+- Plataformas: Google Colab, Render
+- Frameworks: Django	
+- Contenedores: Docker	
+- Bases de datos: MySQL, PostgreSQL, MongoDB	
+- Otras: Hadoop, Spark	
+
+## Proyectos Destacados en GitHub 🌟	- ## Proyectos Destacados en GitHub 🌟
 1. [**data-ops-mind**](https://github.com/Grayfox9/data-ops-mind.git)	
   	  
    - 🌐 Proyecto de análisis del mercado estadounidense. Incluye análisis de datos de locales desde Yelp y Google Maps. Implementación de soluciones de aprendizaje automático y diseño de interfaz de recomendación en Streamlit.	   - 🌐 Proyecto de análisis del mercado estadounidense. Incluye análisis de datos de locales desde Yelp y Google Maps. Implementación de soluciones de aprendizaje automático y diseño de interfaz de recomendación en Streamlit.
