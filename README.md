@@ -3,25 +3,25 @@
 Apasionado de las tecnologías emergentes de programación espcializado en Python con experiencia en Data Science y Data Engineering. Mi enfoque incluye metodologías ágiles, flujos de trabajo eficientes, y una sólida base en estructuras de datos, visualizaciones y evaluación de modelos de machine learning. Super fan por la resolución de problemas, el aprendizaje ágil y el trabajo en equipo.
 
 ## Knowledge 📚
-- Ingeniería de datos	- Ingeniería de datos
-- Dashboard generation with Python, SQL, Spark	- Generación de reportes con Python, SQL, Spark
-- ETL (Extract, Transform, Load)	- ETL (Extract, Transform, Load)
-- Cloud Storage (Google Cloud Storage)	- Cloud Storage (Google Cloud Storage), Cloud Function, Cloud Scheduler
-- Base de datos: Google BigQuery, MySQL, PostgreSQL	- Base de datos: Google BigQuery, MySQL, PostgreSQL
-- Herramientas: Power BI, Seaborn, Streamlit, FastAPI	- Herramientas: Power BI, Seaborn, Streamlit, FastAPI
-- Control de versiones: Git	- Control de versiones: Git
+- Data Science / Data Engineering
+- Dashboard generation with Python, SQL, Spark
+- ETL (Extract, Transform, Load)
+- Data platforms: Cloud Storage (Google Cloud Storage),  Cloud Function, Cloud Scheduler
+- Data bases: Google BigQuery, MySQL, PostgreSQL	
+- Tools: Power BI, Seaborn, Streamlit, FastAPI	
+- Version Control: Git	
 
 
-## Tecnologías 🧰	
-- Lenguajes: Python
-- Bibliotecas: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn	
-- Plataformas: Google Colab, Render
+## Technologies 🧰	
+- Languages: Python, SQL, R
+- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn	
+- Platforms: Google Colab, Render
 - Frameworks: Django	
-- Contenedores: Docker	
-- Bases de datos: MySQL, PostgreSQL, MongoDB	
-- Otras: Hadoop, Spark	
+- Containerss: Docker	
+- Databases: MySQL, PostgreSQL, MongoDB	
+- Others: Hadoop, Spark	
 
-## Proyectos Destacados en GitHub 🌟	- ## Proyectos Destacados en GitHub 🌟
+## Highlighted projects in GitHub 🌟
 1. [**data-ops-mind**](https://github.com/Grayfox9/data-ops-mind.git)	
   	  
    - 🌐 Proyecto de análisis del mercado estadounidense. Incluye análisis de datos de locales desde Yelp y Google Maps. Implementación de soluciones de aprendizaje automático y diseño de interfaz de recomendación en Streamlit.	   - 🌐 Proyecto de análisis del mercado estadounidense. Incluye análisis de datos de locales desde Yelp y Google Maps. Implementación de soluciones de aprendizaje automático y diseño de interfaz de recomendación en Streamlit.
@@ -42,7 +42,7 @@ Apasionado de las tecnologías emergentes de programación espcializado en Pytho
    	   
    - 🛒 Proyecto como Full Stack Developer Freelance para la creación y gestión de un Ecommerce de artículos de limpieza. Incluye implementación de modelos, carrito de compras, autenticación y servicio de emails automáticos.	   - 🛒 Proyecto como Full Stack Developer Freelance para la creación y gestión de un Ecommerce de artículos de limpieza. Incluye implementación de modelos, carrito de compras, autenticación y servicio de emails automáticos.
 
-## Contacto 📥
+## Contact 📥
 - LinkedIn: [Ingmar Orta](https://www.linkedin.com/in/Ingmarorta/)
-- Portafolio: [ingmarorta.netlify.app](https://ingmarorta.netlify.app)
+- Portfolio: [ingmarorta.netlify.app](https://ingmarorta.netlify.app)
 - Email: orta.ingmar@gmail.com
