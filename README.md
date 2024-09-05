@@ -19,7 +19,7 @@ Apasionado de las tecnologías emergentes de programación espcializado en Pytho
 - Frameworks: Django	
 - Containerss: Docker	
 - Databases: MySQL, PostgreSQL, MongoDB	
-- Others: Hadoop, Spark	
+- Others: Spark, Hadoop
 
 ## Highlighted projects in GitHub 🌟
 1. [**data-ops-mind**](https://github.com/Grayfox9/data-ops-mind.git)	
